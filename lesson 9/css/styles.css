@@ -1,0 +1,32 @@
+
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 357px;
+    height: 357px;
+    margin: 100px 500px;
+    justify-content: space-between;
+    color: rgb(202, 40, 67);
+}
+
+.insider-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.retrating-container{
+    margin: 0 40px;
+}
+
+.block{
+    background-color: rgb(201, 162, 54);
+    width: 80px;
+    height: 80px;
+}
+
+p{
+    display: block;
+    margin-left: 50%;
+    margin-top: 45%;
+}
